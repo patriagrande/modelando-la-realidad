@@ -15,7 +15,14 @@ El material se compone de dos documentos complementarios, ambos en PDF:
 | **Libro para estudiantes** | Estudiantes de 3.º año | Material de trabajo para el aula: situaciones, actividades, trabajos prácticos y las formalizaciones del recorrido. |
 | **Notas para el docente** | Colegas que quieran implementar la secuencia | Documento complementario que explica la secuencia por dentro: marco teórico, decisiones didácticas, recorrido trabajo por trabajo y hallazgos del aula. No repite el libro del estudiante: lo fundamenta. |
 
-<!-- COMPLETAR: nombres exactos de los archivos PDF tal como queden en el repositorio, con enlaces directos -->
+<!-- COMPLETAR: reemplazar los nombres de archivo por los definitivos si difieren -->
+
+**Descarga directa:**
+
+- [Libro para estudiantes (PDF)](https://github.com/patriagrande/modelando-la-realidad/raw/main/modelando-la-realidad-estudiantes-v3.0.pdf)
+- [Notas para el docente (PDF)](https://github.com/patriagrande/modelando-la-realidad/raw/main/modelando-la-realidad-docentes-v3.0.pdf)
+
+También podés encontrar las versiones publicadas en la [sección de *Releases*](https://github.com/patriagrande/modelando-la-realidad/releases).
 
 ## De qué se trata la propuesta
 
@@ -67,10 +74,10 @@ Viedma, Río Negro — Patagonia Argentina
 
 ## Cómo citar
 
-> Rosbaco, N. (2026). *Modelando la realidad: Función Lineal* (versión 3.0). Viedma, Río Negro, Argentina. Publicado bajo licencia CC BY-NC-SA 4.0.
+> Rosbaco, N. (2026). *Modelando la realidad: Función Lineal* (versión 3.0). Viedma, Río Negro, Argentina. Publicado bajo licencia CC BY-NC-SA 4.0. Disponible en <https://github.com/patriagrande/modelando-la-realidad>
 
 <!-- COMPLETAR: si se obtiene un DOI (por ejemplo vía Zenodo), agregarlo a la cita y como insignia al inicio del README -->
 
 ## Sugerencias y correcciones
 
-Las devoluciones de colegas que implementen la secuencia son bienvenidas: pueden dejarse como *issue* en este repositorio o enviarse por correo. Los errores detectados en los cuestionarios también se agradecen.
+Las devoluciones de colegas que implementen la secuencia son bienvenidas: pueden dejarse como [*issue*](https://github.com/patriagrande/modelando-la-realidad/issues) en este repositorio o enviarse por correo. Los errores detectados en los cuestionarios también se agradecen.
