@@ -74,9 +74,17 @@ Viedma, Río Negro — Patagonia Argentina
 
 ## Cómo citar
 
-> Rosbaco, N. (2026). *Modelando la realidad: Función Lineal* (versión 3.0). Viedma, Río Negro, Argentina. Publicado bajo licencia CC BY-NC-SA 4.0. Disponible en <https://github.com/patriagrande/modelando-la-realidad>
+Los dos documentos son piezas distintas de una misma propuesta, así que conviene citar el que efectivamente se haya consultado.
 
-<!-- COMPLETAR: si se obtiene un DOI (por ejemplo vía Zenodo), agregarlo a la cita y como insignia al inicio del README -->
+**Libro para estudiantes:**
+
+> Rosbaco, N. (2026). *Modelando la realidad: Función Lineal. Libro para estudiantes* (versión 3.0). Viedma, Río Negro, Argentina. Publicado bajo licencia CC BY-NC-SA 4.0. Disponible en <https://github.com/patriagrande/modelando-la-realidad>
+
+**Notas para el docente:**
+
+> Rosbaco, N. (2026). *Modelando la realidad: Función Lineal. Notas para el docente* (versión 3.0). Viedma, Río Negro, Argentina. Publicado bajo licencia CC BY-NC-SA 4.0. Disponible en <https://github.com/patriagrande/modelando-la-realidad>
+
+Si se hace referencia a la propuesta en su conjunto, alcanza con el título general: *Modelando la realidad: Función Lineal* (versión 3.0).
 
 ## Sugerencias y correcciones
 
