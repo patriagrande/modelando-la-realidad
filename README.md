@@ -19,8 +19,8 @@ El material se compone de dos documentos complementarios, ambos en PDF:
 
 **Descarga directa:**
 
-- [Libro para estudiantes (PDF)](https://github.com/patriagrande/modelando-la-realidad/raw/main/modelando-la-realidad-estudiantes-v3.0.pdf)
-- [Notas para el docente (PDF)](https://github.com/patriagrande/modelando-la-realidad/raw/main/modelando-la-realidad-docentes-v3.0.pdf)
+- [Libro para estudiantes (PDF)]([https://github.com/patriagrande/modelando-la-realidad/raw/main/modelando-la-realidad-estudiantes-v3.0.pdf](https://github.com/patriagrande/modelando-la-realidad/blob/main/libro_para_el_estudiante_v3_0.pdf))
+- [Notas para el docente (PDF)]([https://github.com/patriagrande/modelando-la-realidad/raw/main/modelando-la-realidad-docentes-v3.0.pdf](https://github.com/patriagrande/modelando-la-realidad/blob/main/libro_para_el_docente_v3_0.pdf))
 
 También podés encontrar las versiones publicadas en la [sección de *Releases*](https://github.com/patriagrande/modelando-la-realidad/releases).
 
